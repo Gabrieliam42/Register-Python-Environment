@@ -4,11 +4,11 @@
 
 * Purpose: Manage multiple Python versions
 
-So the scripts:
-* Helps you when you have multiple Python versions installed and you want to register the needed Python version in Windows Environment Variables in PATH.
+The scripts:
+* Help you when you have multiple Python versions installed and you want to register the needed Python version in Windows Environment Variables in PATH.
 Therefore it helps you switch between the Python version being used at the moment.
 
-* Helps you When you want to create a Python Virtual Environment with the specific Python version you select.
+* Help you When you want to create a Python Virtual Environment with the specific Python version you select.
 
 
 

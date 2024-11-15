@@ -1,2 +1,29 @@
 # Register-Python-Environment
-Register-Python-Environment
+
+
+
+* **Purpose:**
+  * Manage multiple Python versions
+
+So the scripts:
+* Helps you when you have multiple Python versions installed and you want to register the needed Python version in Windows Environment Variables in PATH.
+Therefore it helps you switch between the Python version being used at the moment.
+
+* Helps you When you want to create a Python Virtual Environment with the specific Python version you select.
+
+
+
+
+
+
+
+
+
+## AI Involvement
+
+The script's development did not depend on AI tools like ChatGPT, their main use was for creating code comments and descriptions.
+
+
+
+**Script Developer:** Gabriel Mihai Sandu  
+**GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)

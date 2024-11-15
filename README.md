@@ -1,6 +1,6 @@
 # Register-Python-Environment
 
-
+## These Python scripts have also been compiled as executable files and they work on Windows operating systems.
 
 * **Purpose:**
   * Manage multiple Python versions

@@ -2,10 +2,10 @@
 
 ## These Python scripts have also been compiled as executable files and they work on Windows operating systems.
 
-* Purpose: Manage multiple Python versions
+* Purpose: Quickly manage multiple Python versions
 
 The scripts:
-* Help you when you have multiple Python versions installed and you want to register the needed Python version in Windows Environment Variables in PATH.
+* Help you when you have multiple Python versions installed and you want to swiftly register the needed Python version in Windows Environment Variables in PATH.
 Therefore it helps you switch between the Python version being used at the moment.
 
 * Help you When you want to create a Python Virtual Environment with the specific Python version you select.

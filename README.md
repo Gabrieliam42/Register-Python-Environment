@@ -18,7 +18,7 @@ Therefore it helps you switch between the Python version being used at the momen
 
 
 
-### AI Involvement
+##### AI Involvement
 
 The script's development did not depend on AI tools like ChatGPT, their main use was for creating code comments and descriptions.
 
